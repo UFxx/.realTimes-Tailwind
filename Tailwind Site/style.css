@@ -1,0 +1,43 @@
+/* Полоса прокрутки */
+
+.main-scroll::-webkit-scrollbar {
+    width: 8px;
+}
+  
+.main-scroll::-webkit-scrollbar-track {
+    background: #161616;
+    border-radius: 100px;
+}
+
+.main-scroll::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    border: 2px solid #ad1aaf;
+}
+
+.main-news::-webkit-scrollbar {
+    width: 8px;
+}
+  
+.main-news::-webkit-scrollbar-track {
+    background: #161616;
+    border-radius: 10px;
+}
+
+.main-news::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    border: 2px solid #ad1aaf;
+}
+
+.chat-area::-webkit-scrollbar {
+    width: 8px;
+}
+  
+.chat-area::-webkit-scrollbar-track {
+    background: #161616;
+    border-radius: 10px;
+}
+
+.chat-area::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    border: 2px solid #ad1aaf;
+}
